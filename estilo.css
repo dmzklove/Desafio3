@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    
+}
+
+
+.foto-producto{
+    height: 300px;
+    width: 300px;
+    border-radius: 100px;
+    margin-top: 30px;
+
+}
+
+.foto-producto:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.texto-producto{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 50px;
+    font-size: 22px;
+}
+
+.nombre{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-weight:bold;
+}
+
+h1 {
+    
+    border-bottom: thick solid #489593;
+    text-align: center;
+    color:aliceblue;
+    height: 110px;
+    padding-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: wavy;
+    font-size: 70px;
+    font-weight: bold;
+   
+    
+}
+
+table{
+    margin-top: 100px;
+    text-align: center;
+    margin-right: 350px;
+    margin-left: 350px;
+}
+
+header{
+    background-image: url(/assets/imgs/bluetropic.jpg);
+    
+}
+
+.footer{
+    background-image: url(/assets/imgs/bluetropic.jpg);
+    height: 65px;
+    margin-top: 60px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 50px;
+    border-top: thick solid #489593;
+
+}
